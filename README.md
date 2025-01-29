@@ -1,4 +1,4 @@
-# Storm Breaker Phishing Simulation 🚨
+# Phishing Simulation using StormBreaker 🚨
 
 ## Overview  
 This project demonstrates a **phishing attack simulation** using **Storm Breaker** to highlight cybersecurity risks, including unauthorized access to:  
@@ -17,3 +17,27 @@ The simulation aims to **raise awareness about social engineering threats** and 
 ```bash
 cd /opt
 git clone https://github.com/ultrasecurity/Storm-Breaker.git
+```
+
+⚠️ If the folder already exists, ensure it is empty before cloning.
+
+### **2. Navigate to the Directory** 
+```bash
+cd Storm-Breaker
+```
+
+### **3. Update System Packages** 
+```bash
+apt update
+```
+This ensures your system has the latest updates.
+
+### **4. Install Dependencies** 
+```bash
+apt install python3-requests python3-colorama python3-psutil
+```
+
+### **5. Run the Installation Script** 
+```bash
+bash install.sh
+```
