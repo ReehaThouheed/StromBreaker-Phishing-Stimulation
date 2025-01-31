@@ -31,6 +31,13 @@ Ensure you have the following installed:
 
 ---
 
+# Default Login Credentials for ngrok
+
+**Username:** `admin`  
+**Password:** `admin`  
+
+You can edit the `config.php` file to change the username and password as needed.
+
 ## Installation & Setup
 ### Step 1: Clone the Storm Breaker Repository
 ```bash
