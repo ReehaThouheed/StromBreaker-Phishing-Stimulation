@@ -1,0 +1,16 @@
+ngrok                                                                                               (Ctrl+C to quit)
+                                                                                                                    
+🛡 Protect endpoints w/ IP Intelligence: https://ngrok.com/r/ipintel                                                 
+                                                                                                                    
+Session Status                online                                                                                
+Account                       Reeha (Plan: Free)                                                                    
+Update                        update available (version 3.19.1, Ctrl-U to update)                                   
+Version                       3.16.0                                                                                
+Region                        India (in)                                                                            
+Latency                       27ms                                                                                  
+Web Interface                 http://127.0.0.1:4040                                                                 
+Forwarding                    https://c2c9-192-140-155-10.ngrok-free.app -> http://localhost:8080                   
+                                                                                                                    
+Connections                   ttl     opn     rt1     rt5     p50     p90                                           
+                              0       0       0.00    0.00    0.00    0.00                                          
+                                                                                 
